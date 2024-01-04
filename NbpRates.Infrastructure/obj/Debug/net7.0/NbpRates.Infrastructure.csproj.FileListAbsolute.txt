@@ -1,0 +1,17 @@
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.AssemblyInfo.cs
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\bin\Debug\net7.0\NbpRates.Infrastructure.deps.json
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\bin\Debug\net7.0\NbpRates.Infrastructure.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\bin\Debug\net7.0\NbpRates.Infrastructure.pdb
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\bin\Debug\net7.0\NbpRates.Database.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\bin\Debug\net7.0\NbpRates.Domain.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\bin\Debug\net7.0\NbpRates.Database.pdb
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\bin\Debug\net7.0\NbpRates.Domain.pdb
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.csproj.CopyComplete
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\refint\NbpRates.Infrastructure.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\NbpRates.Infrastructure.pdb
+C:\Users\Markus\repos\NbpRates\NbpRates.Infrastructure\obj\Debug\net7.0\ref\NbpRates.Infrastructure.dll

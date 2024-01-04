@@ -1,0 +1,14 @@
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\bin\Debug\net7.0\NbpRates.Database.deps.json
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\bin\Debug\net7.0\NbpRates.Database.runtimeconfig.json
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\bin\Debug\net7.0\NbpRates.Database.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\bin\Debug\net7.0\NbpRates.Database.pdb
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.csproj.AssemblyReference.cache
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.AssemblyInfoInputs.cache
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.AssemblyInfo.cs
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.csproj.CoreCompileInputs.cache
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\refint\NbpRates.Database.dll
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.pdb
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\NbpRates.Database.genruntimeconfig.cache
+C:\Users\Markus\repos\NbpRates\NbpRates.Database\obj\Debug\net7.0\ref\NbpRates.Database.dll

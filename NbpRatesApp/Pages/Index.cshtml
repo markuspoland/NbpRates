@@ -1,0 +1,91 @@
+﻿@page
+@using NbpRates.Infrastructure.Repositories.Interfaces;
+@using NbpRatesApp.Clients.Interfaces;
+@using Newtonsoft.Json
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 1px solid #ddd;
+}
+
+divcenter {
+        margin: 0 auto;
+}
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">NBP Rates</h1>
+    <p>Below you can find current NBP rates.</p>
+    
+</div>
+
+<div>
+    <table>
+        <tr>
+            <th>Currency</th>
+            <th>Code</th>
+            <th>Mid</th>
+        </tr>
+        @foreach (var item in Model.Rates)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Currency)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mid)
+                </td>
+            </tr>
+        }
+    </table>   
+
+</div>
+
+<div class="text-center">
+    <br/>
+    <form method="post">
+        <input type="submit" class="btn btn-labeled btn-info" value="Save to Database" asp-page-handler="SaveToDatabase" asp-route-rates="@Json.Serialize(Model.Rates)" />
+    </form>
+</div>
+
+<div id="popup-container" class="fixed-top mt-2 ml-auto mr-auto">
+    @if (TempData["ResultMessage"] != null)
+    {
+        <div id="popup-message" class="alert alert-success fade show" role="alert">
+            @TempData["ResultMessage"]
+        </div>
+    }
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+        var $popupContainer = $("#popup-container");
+        if ($popupContainer.length) {
+            
+            $popupContainer.fadeIn();
+            
+            setTimeout(function () {
+                $popupContainer.fadeOut();
+            }, 2000);
+        }
+    });
+</script>
+
+
